@@ -6,4 +6,4 @@ Este equipo está compuesto por:
 * Arley Santiago Alvarez Ortiz. Código: 20241020008
 * Sergio Nicolás Osorio Guevara. Código: 20241020073
 * Laura Sofia Cuadros Niño. 20222020160
-* Emmanuel Guerrero Piza. 
+* Emmanuel Guerrero Piza: 20202020039
