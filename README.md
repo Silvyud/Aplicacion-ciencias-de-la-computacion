@@ -1,5 +1,5 @@
 # Aplicación ciencias de la computación
-Bienvenido al repositorio de 5 estudiantes de ingeniería de sistemas de la UDFJC. Aquí en contrarás nuestro trabajo en el proceso de aprendizaje y aplicación de los conceptos de la materia de ciencias de la computación 2. Se trabaja fuertemente la implementación de algoritmos para el tratamiento de grafos.
+Bienvenido al repositorio de 5 estudiantes de ingeniería de sistemas de la UDFJC. Aquí encontrarás nuestro trabajo en el proceso de aprendizaje y aplicación de los conceptos de la materia de ciencias de la computación 2. Se trabaja fuertemente la implementación de algoritmos para el tratamiento de grafos.
 
 Este equipo está compuesto por:
 * Silvana Martínez Pardo. Código: 20241020010
